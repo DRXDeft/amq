@@ -1,0 +1,16 @@
+for info, total work write each  : 2.648    total work inram from level 4 : 5.478  total work raw : 25.000 
+runing test for 1000
+False_Positive Rate is 0.40200000
+running time is 5.64897 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 10000
+False_Positive Rate is 0.45770000
+running time is 7.81238 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 100000
+False_Positive Rate is 0.48001000
+running time is 10.0295 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 1e+06
+False_Positive Rate is 0.48804200
+running time is 12.2515 microseconds

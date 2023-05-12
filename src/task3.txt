@@ -1,0 +1,48 @@
+for info, total work write each  : 2.648    total work inram from level 4 : 5.478  total work raw : 25.000 
+runing test for 1000 bit 7
+False_Positive Rate is 0.00100000
+running time is 5.34711 microseconds
+for info, total work write each  : 2.648    total work inram from level 4 : 5.478  total work raw : 25.000 
+runing test for 1000 bit 8
+False_Positive Rate is 0.00100000
+running time is 5.273 microseconds
+for info, total work write each  : 2.648    total work inram from level 4 : 5.478  total work raw : 25.000 
+runing test for 1000 bit 10
+False_Positive Rate is 0.00000000
+running time is 5.33754 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 10000 bit 7
+False_Positive Rate is 0.00210000
+running time is 7.38399 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 10000 bit 8
+False_Positive Rate is 0.00060000
+running time is 7.44191 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 10000 bit 10
+False_Positive Rate is 0.00030000
+running time is 7.43897 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 100000 bit 7
+False_Positive Rate is 0.00186000
+running time is 9.56514 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 100000 bit 8
+False_Positive Rate is 0.00088000
+running time is 9.56885 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 100000 bit 10
+False_Positive Rate is 0.00028000
+running time is 9.6725 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 1e+06 bit 7
+False_Positive Rate is 0.00190700
+running time is 11.8674 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 1e+06 bit 8
+False_Positive Rate is 0.00097300
+running time is 11.8489 microseconds
+for info, total work write each  : 2.649    total work inram from level 4 : 5.479  total work raw : 25.000 
+runing test for 1e+06 bit 10
+False_Positive Rate is 0.00024300
+running time is 11.8565 microseconds

@@ -1,0 +1,36 @@
+False Positive Rate: 0.0078125 k:1000
+False_Positive Rate is 0.00700000
+running time is 5.4161 microseconds
+False Positive Rate: 0.0078125 k:10000
+False_Positive Rate is 0.00480000
+running time is 7.66622 microseconds
+False Positive Rate: 0.0078125 k:100000
+False_Positive Rate is 0.00378000
+running time is 9.98308 microseconds
+False Positive Rate: 0.0078125 k:1e+06
+False_Positive Rate is 0.00428900
+running time is 12.3258 microseconds
+False Positive Rate: 0.00390625 k:1000
+False_Positive Rate is 0.00300000
+running time is 5.34711 microseconds
+False Positive Rate: 0.00390625 k:10000
+False_Positive Rate is 0.00250000
+running time is 7.65064 microseconds
+False Positive Rate: 0.00390625 k:100000
+False_Positive Rate is 0.00187000
+running time is 9.99072 microseconds
+False Positive Rate: 0.00390625 k:1e+06
+False_Positive Rate is 0.00216400
+running time is 12.3511 microseconds
+False Positive Rate: 0.000976562 k:1000
+False_Positive Rate is 0.00000000
+running time is 5.25227 microseconds
+False Positive Rate: 0.000976562 k:10000
+False_Positive Rate is 0.00080000
+running time is 7.55956 microseconds
+False Positive Rate: 0.000976562 k:100000
+False_Positive Rate is 0.00055000
+running time is 9.98022 microseconds
+False Positive Rate: 0.000976562 k:1e+06
+False_Positive Rate is 0.00060000
+running time is 12.3327 microseconds
